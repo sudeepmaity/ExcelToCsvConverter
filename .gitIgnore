@@ -1,0 +1,22 @@
+# Build results
+/bin/
+/obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Syncfusion license key
+SyncfusionLicenseKey.txt
